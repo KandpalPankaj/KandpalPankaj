@@ -11,9 +11,10 @@
 - 👯 
 - ⚡ 
 
-<p align='center'>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pankajnandi&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Pankaj Kandpal's Github Stats">
-</p>
+
+<span><img align="center" src="https://github-readme-stats.vercel.app/api?username=pankajnandi&show_icons=true&theme=dark" alt="Pankaj Kandpal's Github Stats"></span>
+<span><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pankajnandi&theme=dark" alt="Pankaj Kandpal's Github Streak Stats"></span>
+
 
 
 -----
