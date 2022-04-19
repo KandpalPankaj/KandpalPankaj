@@ -23,9 +23,10 @@
   </div>
 
   <p align="center"><i><b>Git Stats</b></i></p>
-<span><img align="center" src="https://github-readme-stats.vercel.app/api?username=pankajnandi&show_icons=true&theme=dark" alt="Pankaj Kandpal's Github Stats"></span>
-<span><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pankajnandi&theme=dark" alt="Pankaj Kandpal's Github Streak Stats"></span>
-
+  <div align="center" >
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=pankajnandi&show_icons=true&theme=dark" alt="Pankaj Kandpal's Github Stats"><br/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pankajnandi&theme=dark" alt="Pankaj Kandpal's Github Streak Stats">
+ </div>
 
 ### Thank you for visiting my profile 🤓 
 -----
