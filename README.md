@@ -7,11 +7,11 @@
 - 🌱 I’m currently learning react.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💬 Talk to me about JavaScript, MERN stack.
 - 😄 Pronouns: He/Him
-- 📝 
-- 👯 
-- ⚡ 
+- 👯 Exploring new technologies and developing programming insights.
 
 <div align="center">
+  
+  
   
 # 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
   
@@ -19,6 +19,7 @@
 <div align="center" >
   
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)  ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+  <img src="https://camo.githubusercontent.com/202a58d250ff1d21ee70433e0070b55f8fed747f8883c1750742aa791b1ad871/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769744875622d3035313232413f7374796c653d666c6174266c6f676f3d676974687562" height="28"/>
   
   </div>
 
@@ -26,7 +27,13 @@
   <div align="center" >
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=pankajnandi&show_icons=true&theme=dark" alt="Pankaj Kandpal's Github Stats"><br/>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pankajnandi&theme=dark" alt="Pankaj Kandpal's Github Streak Stats">
- </div>
+ 
+
+## 🌐Socials
+<a href="https://www.linkedin.com/in/kandpalpankaj/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="mailto:pkandpal28@gmail.com?subject=Hi"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;
+<!--<a href="https://kkvanonymous.github.io/"><img alt="Website" src="https://img.shields.io/website?style=for-the-badge&up_message=portfolio&url=https%3A%2F%2Fkkvanonymous.github.io%2F"></a>-->
+</div>
 
 ### Thank you for visiting my profile 🤓 
 -----
