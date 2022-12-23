@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+This+is+Pankaj+Kandpal!;I'm+a+learning+developer...;And+I'm+a+proud+GitHub+user)](https://git.io/typing-svg)
 
 ### 🤵 About Me:
-- 🤔 I’m currently open for a new job opportunity, <a href="https://drive.google.com/drive/folders/1BMi1ien7l-GdsrYODpWg9FW1SwUvG_JF">LINK TO MY RESUME</a>.
+- 🤔 I’m SDE-I @ source.one, <a href="https://drive.google.com/drive/folders/1BMi1ien7l-GdsrYODpWg9FW1SwUvG_JF">LINK TO MY RESUME</a>.
 - 🌱 I’m currently learning react.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💬 Talk to me about JavaScript, MERN stack.
 - 😄 Pronouns: He/Him
